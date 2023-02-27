@@ -1,2 +1,2 @@
 # Estudos
-Trajetória de estudos, rumo a primeira vaga como um cientista de dados. 
+Trajetória de estudos no mundo dos dados. 
